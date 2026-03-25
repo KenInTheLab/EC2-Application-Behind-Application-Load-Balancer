@@ -1,3 +1,6 @@
+## Watch me Build Here!
+https://www.loom.com/share/8f266b0d072e4f9a914fd7e627f7446b
+
 # Project 03 — EC2 App Behind an Application Load Balancer
 
 ![AWS](https://img.shields.io/badge/AWS-ALB%20%7C%20EC2-orange?logo=amazonaws)
